@@ -4,7 +4,13 @@
 			"path": "."
 		},
 		{
-			"path": ".."
+			"path": "../Problem1 "
+		},
+		{
+			"path": "../Problem2"
+		},
+		{
+			"path": "../problem3"
 		}
 	],
 	"settings": {}
